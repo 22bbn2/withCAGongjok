@@ -14,6 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 // 테스트 커밋
+// 테스트 커밋2
+
 Route::get('/', function () {
     return view('welcome');
 });
